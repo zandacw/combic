@@ -15,7 +15,7 @@ tags: [
   "ocaml"
 ]
 homepage: "https://github.com/zandacw/combic"
-doc: "https://github.com/zandacw/combic"
+doc: "https://github.com/zandacw/combic/README.md"
 bug-reports: "https://github.com/zandacw/combic/issues"
 depends: [
   "ocaml"

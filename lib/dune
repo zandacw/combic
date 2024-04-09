@@ -1,0 +1,5 @@
+(library
+ (name combic)
+ (public_name combic)
+ (modules combic))
+

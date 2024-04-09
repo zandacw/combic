@@ -12,7 +12,7 @@
 
 (license "MIT")
 
-(documentation https://github.com/zandacw/combic)
+(documentation "https://github.com/zandacw/combic")
 (package
  (name combic)
  (version 1.0.0)
